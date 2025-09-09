@@ -25,7 +25,7 @@ For the African and Latin American ancestry groups, we included data from the Al
 ### Analysis notebooks
 
 1. Ancestry-stratified GWAS meta-analyses
-2. Multiancestry meta-analysis
+2. Multi-ancestry meta-analysis
 3. Annotate dbSNP IDs
-4. LDSC heritability analysis
+4. LDSC heritability estimates and cohort-level inflation checks
 5. Fine-mapping of risk regions
